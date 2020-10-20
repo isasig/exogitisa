@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 pourquoi ceci est la base
+=======
+ceci est la base du gateau aux carottes
+>>>>>>> avecingredients
